@@ -41,3 +41,10 @@ En el modo --NORMAL-- `:w`
 En el modo --NORMAL-- `:wq`
 
 ## Movernos entre archivos dentro del editor
+
+
+**Fuentes**:
+
+https://github.com/nschurmann
+
+https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/
