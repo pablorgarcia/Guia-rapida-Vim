@@ -32,13 +32,13 @@ Para entrar en el modo --INSERT-- podemos entrar de dos formas, con la tecla `i`
 Para salir presionamos la tecla `Esc`
 
 ## Para eliminar texto del archivo
-En el modo --NORMAL-- eliminamos caracteres con la tecla `x`
+En el modo --NORMAL-- `esc` eliminamos caracteres con la tecla `x`
 
 ## Para guardar el archivo
-En el modo --NORMAL-- `:w`
+En el modo --NORMAL-- `esc` guardamos con `:w`
 
 ## Para guardar el archivo y salir del editor 
-En el modo --NORMAL-- `:wq`
+En el modo --NORMAL-- `esc` guardamos y salimos con `:wq`
 
 ## Movernos entre archivos dentro del editor
 
