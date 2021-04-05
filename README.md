@@ -2,6 +2,8 @@
 
 Comandos de Vim y Neovim comunes
 
+[pablogarcia.dev/notes/vim](https://pablogarcia.dev/notes/vim)
+
 ## Entrar a Vim desde la terminal
 `$ vim <nombre-del-archivo>`
 
