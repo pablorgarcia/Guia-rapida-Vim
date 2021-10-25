@@ -1,4 +1,4 @@
-# Guía rápida para Vim y Neovim
+# Guía rápida para Vim y Neovim Tutorial ejemplo
 
 Comandos de Vim y Neovim comunes
 
